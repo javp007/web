@@ -1,0 +1,116 @@
+.Tema {
+    background-color: #9FFF90; 
+    padding: 60px 30px; 
+    width: 80%; 
+    margin: 40px auto; 
+    font-family: 'Playfair Display', serif; 
+    text-align: center;
+	color: #007BFF:
+}
+.Definición {
+    background-color: #9FFF90; 
+    padding: 60px 30px; 
+    width: 80%;
+    margin: 40px auto; 
+    font-family: 'Playfair Display', serif; 
+    text-align: left; 
+}
+h1{
+    color: #007BFF
+}
+
+.Causas {
+    background-color: #9FFF90; 
+    padding: 60px 30px; 
+    width: 80%; 
+    margin: 40px auto; 
+    font-family: 'Playfair Display', serif; 
+    text-align: left; 
+}
+.Consecuencias{
+    background-color: #9FFF90; 
+    padding: 60px 30px; 
+    width: 80%;
+    margin: 40px auto; 
+    font-family: 'Playfair Display', serif; 
+    text-align: left; 
+}
+.Impacto{
+    background-color: #9FFF90; 
+    padding: 60px 30px; 
+    width: 80%; 
+    margin: 40px auto; 
+    font-family: 'Playfair Display', serif; 
+    text-align: left; 
+}
+.Efectos{
+	background-color: #9FFF90;  
+    padding: 60px 30px; 
+    width: 80%;
+    margin: 40px auto; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    border-radius: 10px; 
+    font-family: 'Playfair Display', serif; 
+    text-align: left; 
+}
+.Ecuador{
+    background-color: #9FFF90; 
+    padding: 60px 30px; 
+    width: 80%;
+    margin: 40px auto; 
+    font-family: 'Playfair Display', serif; 
+    text-align: left; 
+}
+h3{
+	color: #007BFF; 
+    text-align: center; 
+    font-size: 1.8em; 
+    font-family: 'Georgia', serif; 
+}	
+p {
+    font-family: 'Merriweather', serif; 
+    font-size: 1.2em; 
+    line-height: 1.6; 
+    text-align: justify; 
+    color: #333; 
+}
+ul, ol{
+    font-family: 'Merriweather', serif; 
+    font-size: 1.2em; 
+    line-height: 1.6; 
+    text-align: justify; 
+    color: #333; 
+}
+.contenedor{
+text-align: center;	
+}
+.menu {
+    background-color: #808080; 
+    text-align: center; 
+    padding: 20px;
+    width: 100%; 
+    margin: 0; 
+	font-family: 'Poppins', sans-serif;
+}
+
+.menu a {
+    color: white; 
+    text-decoration: none;
+    padding: 10px 10px; 
+    font-size: 25px; 
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+.menu a:hover {
+    background-color: #666666; 
+    border-radius: 5px;
+}
+.autores {
+	background-color: #808080; 
+    text-align: center; 
+    padding: 20px;
+    width: 100%; 
+    margin: 0;
+	font-family: 'Lora', serif;
+	font-size: 35px; 
+}
